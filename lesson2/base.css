@@ -45,16 +45,16 @@ body {
   width: 40vw;
   position:relative;
   top:1vh
-
 }
 
 .box2{
   background-color: red;
   width: 13vw;
   height: 15vh;
+  margin: 2px;
   position:absolute;
-  top:0vh;
-  left:20vw;
+  top:1vh;
+  left:50vw;
   
 }
 
@@ -62,8 +62,9 @@ body {
   background-color: blue;
   width: 15vw;
   height: 15vh;
+  margin: 2px;
   position:absolute;
   top:30vh;
-  left:0vw;
+  left:30vw;
   
 }
